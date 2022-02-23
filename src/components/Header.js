@@ -36,7 +36,7 @@ function Header() {
         </Link>
       </div>
 
-      {/*For the profile picture/username...still need to find out to have a picture*/}
+      {/*Using Firebase database to display user's google account username and profile pic on Header*/}
       <div className="header__right">
         <div className="profile_image">
           <img src={user.photoURL}/>
