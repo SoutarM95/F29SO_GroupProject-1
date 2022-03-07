@@ -46,7 +46,7 @@ function Header() {
           Login
         </Link>
         <Link to="Signup" className="Header__item">
-          Darkmode!
+          Darkmode! Michael
         </Link>
       </div>
     </div>
